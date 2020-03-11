@@ -48,8 +48,8 @@
 
 ## 配布素材
 
-* 191208
-	* [191208.zip](docs/191208.zip)
+
+* [day1.zip](docs/day1.zip)
 
 &nbsp;
 &nbsp;
