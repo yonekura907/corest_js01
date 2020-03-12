@@ -4,7 +4,7 @@
 ## 第１回目
 
 * [Visual Studio Code](docs/vscode/vscode.md)
-* [JavaScript基礎](docs/javascript/01_javascript.md)
+* [JavaScript基礎](docs/javascript/01_javascript.pdf)
 * [変数](01_javascript/02_var.md)
 * [jQuery基礎](docs/jquery/01_jquery.md)
 * [セレクタ](docs/jquery/02_selector.md)
