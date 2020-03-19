@@ -1,7 +1,7 @@
 # corest-scool JavaScript 講座
 
 
-## 第１回目
+## 第1回目
 
 * [Visual Studio Code](docs/vscode/vscode.pdf)
 * [JavaScript基礎](docs/javascript/01_javascript.pdf)
@@ -14,9 +14,20 @@
 &nbsp;
 &nbsp;
 
+---
+
+## 第2回目
+
+* [関数 function](docs/javascript/03_function.pdf)
+* [if](docs/javascript/04_if.pdf)
+* [属性](docs/jquery/04_attribute.pdf)
+
+&nbsp;
+&nbsp;
 
 
 ---
+
 
 
 <!--
