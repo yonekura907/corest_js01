@@ -14,7 +14,7 @@
 &nbsp;
 &nbsp;
 
----
+
 
 ## 第2回目
 
@@ -25,6 +25,10 @@
 &nbsp;
 &nbsp;
 
+
+## 第3回目
+* [配列 forループ](docs/javascript/05_arrayfor.pdf)
+* [Github](docs/github/github.pdf)
 
 ---
 
@@ -63,6 +67,7 @@
 
 
 * [day1.zip](docs/day1.zip)
+* [day2.zip](docs/day2.zip)
 
 &nbsp;
 &nbsp;
