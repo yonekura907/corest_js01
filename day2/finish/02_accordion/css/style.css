@@ -1,5 +1,5 @@
 body {
-  background-color: #F8f8f8;
+  background-color: #f8f8f8;
 }
 
 .accordion {
@@ -9,53 +9,52 @@ body {
 
 .accordion dl {
   margin-bottom: 40px;
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.05);
+  /* box-shadow: 0 20px 40px rgba(0, 0, 0, 0.05); */
   box-sizing: border-box;
 }
 
 .accordion dt {
   padding: 16px;
-  background: #50D2C2;
-  color: #FFF;
+  background: #50d2c2;
+  color: #fff;
   border-bottom: 1px solid #efefef;
   cursor: pointer;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 600;
   font-size: 20px;
   position: relative;
 }
 
-.accordion dt svg{
+.accordion dt svg {
   position: absolute;
   right: 14px;
   top: 14px;
   width: 24px;
   height: 24px;
-  fill:#FFF;
-  transition: all .5s ease;
+  fill: #fff;
+  transition: all 0.5s ease;
 }
 
-.accordion dt.active svg{
+.accordion dt.active svg {
   transform: rotate(-180deg);
 }
 
 .accordion dd {
   padding: 16px;
-  /* visibility: hidden; */
-  /* opacity: 0; */
-  display: none;
-  background-color: #FFF;
+  visibility: hidden;
+  opacity: 0;
+  /* display: none; */
+  background-color: #fff;
+  transition: all 0.5s ease;
 }
 
 .accordion dd.active {
   padding: 16px;
-  /* visibility: hidden; */
-  /* opacity: 0; */
-  display: block;
-  background-color: #FFF;
+  visibility: visible;
+  opacity: 1;
+  /* display: block; */
+  background-color: #fff;
 }
-
-
 
 .accordion dd ul {
   list-style: none;
@@ -66,6 +65,6 @@ body {
   margin: 12px 0;
   color: #444444;
   font-size: 16px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
 }
